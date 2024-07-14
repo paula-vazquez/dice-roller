@@ -15,3 +15,9 @@ Dice Roller is a simple yet engaging Flutter application developed to help begin
 
 - **Flutter:** The powerful UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Dart:** The programming language optimized for building fast, multi-platform applications.
+
+## Demo
+
+Watch the demo of the app:
+
+[Dice Roller Demo](images/demo.mp4)
