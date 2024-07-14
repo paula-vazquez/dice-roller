@@ -20,5 +20,5 @@ Dice Roller is a simple yet engaging Flutter application developed to help begin
 
 Watch the demo of the app:
 <p align="center">
-  <img src="images/demo.gif" alt="Demo of the application" width="500" />
+  <img src="images/demo.gif" alt="Demo of the application" width="300" />
 </p>
