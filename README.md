@@ -1,16 +1,17 @@
-# dicee_flutter
+# Dice Roller
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Dice Roller is a simple yet engaging Flutter application developed to help beginners learn about Stateful Widgets and dynamic content updates using buttons. The project serves as a practical exercise in Flutter and Dart, demonstrating how to manage state and build interactive UI elements.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Single Die Roll:** Tap on either of the dice to roll it individually and watch the face change.
+- **Simultaneous Roll:** Tap on both dice simultaneously to roll them both at the same time.
+- **Stateful Widgets:** Utilizes Flutter's Stateful Widgets to manage the state and update the UI dynamically.
+- **Interactive UI:** Clean and intuitive user interface designed for easy interaction.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter:** The powerful UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart:** The programming language optimized for building fast, multi-platform applications.
